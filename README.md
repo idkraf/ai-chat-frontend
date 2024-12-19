@@ -14,7 +14,7 @@ Before starting, ensure the following tools are installed:
 
 # Install
 ## first clone the repo
-- 
+- https://github.com/idkraf/ai-chat-frontend.git
 ## on the folder 
 ```
 npm install
